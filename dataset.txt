@@ -1,0 +1,10 @@
+- Original Data Set: https://drive.google.com/file/d/1xvD1WaDKc7uE9WfscbjE8wlAxLybHdMN/view?usp=sharing
+- Formatted Data Set(cleaned and dropped columns from original): https://drive.google.com/file/d/1dV0Wi4m-2NQamxV0Si5n2scZctj6esqx/view?usp=sharing
+- Balanced Data Set(used to encode): https://drive.google.com/file/d/1DxED0Nj4AvJ7F9OCN_zOEME2Q0xifTS-/view?usp=sharing
+
+- rater is the android app. just need to open it in android studio and press play as long as you have a recent emulator
+	may take a bit to access the rating if emulator has low memory so if the app says its not responding just hit wait
+	app_demo is a demonstration of it working
+
+- app_model.py is the file used to build the  model for the app
+- test_predict.py is to test the encoder labels and predict function of model
